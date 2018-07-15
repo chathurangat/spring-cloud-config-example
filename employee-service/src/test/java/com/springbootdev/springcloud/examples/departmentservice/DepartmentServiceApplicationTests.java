@@ -1,4 +1,4 @@
-package com.springbootdev.springcloud.examples.employeeservice;
+package com.springbootdev.springcloud.examples.departmentservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class EmployeeServiceApplicationTests {
+public class DepartmentServiceApplicationTests {
 
 	@Test
 	public void contextLoads() {
